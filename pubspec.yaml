@@ -30,7 +30,7 @@ dependencies:
   image_cropper: ^1.0.0
   flutter_speed_dial: ^1.1.1
   rxdart: ^0.21.0
-  bloc_pattern: ^1.5.2
+  bloc_pattern: ^3.0.0
   shimmer: ^1.0.0
 
 dev_dependencies:
