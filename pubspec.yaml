@@ -27,11 +27,11 @@ dependencies:
   cloud_firestore: ^3.0.0
   firebase_storage: ^2.1.0+1
   image_picker: ^0.8.0
-  image_cropper: ^1.0.0
   flutter_speed_dial: ^6.0.0
+  image_cropper: ^2.0.0
   rxdart: ^0.27.0
   bloc_pattern: ^3.0.0
-  shimmer: ^1.0.0
+  shimmer: ^2.0.0
 
 dev_dependencies:
   flutter_test:
